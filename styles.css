@@ -1,0 +1,46 @@
+body{
+	background-color:#dae2f0;
+}
+
+.menu{
+    display:flex;
+	
+}
+.dishes{
+	background-color:#edf6f7;
+    padding:20px;
+    
+}
+.snacks{
+	background-color:#f5f2df;
+    padding:20px;
+    padding-right:280px;
+}
+
+.snackList{
+	font-family:Fredericka the Great;
+    color:#594605;
+    font-size:35px;
+}
+
+.decor{
+	padding:45px;
+    background-color:#e9ecf2;
+}
+
+.order{
+	padding:10px;
+    background-color:#d4d4ff;
+    margin-right:230px;
+}
+
+button{
+	padding:4px;
+    background-color:white;
+}
+
+.collection{
+	padding:15px;
+    background-color:#dee3ff;
+    margin-right:230px;
+}
